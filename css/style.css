@@ -1,0 +1,26 @@
+body {
+	font-size:1em;
+}
+.contact-wrapper {display: inline-block; border:#eee solid 2px; border-radius:4px; width:auto; padding:15px 10px;}
+.contact-wrapper label {
+	font-weight: bold;
+	display: block;
+	width:220px;
+	margin-top:6px;
+}
+.contact-wrapper input, .contact-wrapper textarea  {
+	border-radius:3px;
+	border:#ccc solid 1px;
+	
+}
+.contact-wrapper input {
+	width:240px;
+}
+.contact-wrapper textarea {
+	width:236px;
+}
+
+.contact-wrapper .input_error {
+	color:red; 
+	font-size:0.8em; 
+}
