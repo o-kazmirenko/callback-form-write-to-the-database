@@ -11,10 +11,10 @@
 	}
 
 	
-	$host = 'mysql.zzz.com.ua';  
-	$db_name = 'olga_kazmirenko';
-    $user = 'ghghjgf21';    
-    $pass = '2h1tHr3y15fCvds3';
+	$host = '';  
+	$db_name = '';
+    $user = '';    
+    $pass = '';
     // test_table_fos
 	
 		
